@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="happy_birthday_sam">Happy Birthday Sam!</string>
+    <string name="from_emma">From Emma</string>
+    <string name="title_activity_main_compose_task">MainActivityComposeTask</string>
+    <string name="title_activity_task_manager">TaskManagerActivity</string>
+</resources>
